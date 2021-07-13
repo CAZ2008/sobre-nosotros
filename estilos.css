@@ -1,0 +1,396 @@
+
+.container {
+    width: 80%;
+    margin: auto;
+
+}
+
+.container-all{
+    width: 500%;
+    max-width: 1000px;
+    margin: auto;
+   margin-left: 30px;
+   
+}
+.container-all  img{
+width: 600px;
+float: left;
+height: 400px; ;
+border-radius: 5px;
+margin-right: 25px;
+margin-bottom: 20px;
+}
+.textos-header h1{
+    font-family: fantasy;
+    font-size: 300%;
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+    color: rgba(243, 34, 34, 0.849);
+}
+
+.container2 h3{
+    font-size: 110% ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.container2 h4{
+    font-size: 100% ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.container2 h5{
+    font-size: 100% ;
+    font-family: Arial, Helvetica, sans-serif;
+   margin-left: 20px;
+    
+}
+.textos-header p{
+    font-size: 400%;
+    font-family: fantasy;
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+    color: rgba(63, 95, 238, 0.849); 
+}
+
+.co h6 { 
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    margin-right: 200px; 
+    background: -webkit-linear-gradient(left top, rgb(134, 124, 218), rgb(106, 133, 207));
+    background: linear-gradient(to bottom right, rgb(30, 17, 148), rgb(80, 114, 185));
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;  
+    -webkit-text-stroke: 2px rgb(9, 6, 61);
+    margin-left: 660px;
+    float: right;
+  }  
+ 
+  .texto p{
+    font-size: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    color: white; 
+  }
+.texto h8 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    margin-right: 200px; 
+    background: -webkit-linear-gradient(left top, rgb(134, 124, 218), rgb(106, 133, 207));
+    background: linear-gradient(to bottom right, rgb(30, 17, 148), rgb(80, 114, 185));
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;  
+    -webkit-text-stroke: 2px  rgb(5, 3, 46);
+    float: left;
+}
+.texto h9{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    margin-right: 200px; 
+    background: -webkit-linear-gradient(left top, rgb(134, 124, 218), rgb(106, 133, 207));
+    background: linear-gradient(to bottom right, rgb(30, 17, 148), rgb(80, 114, 185));
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;  
+    -webkit-text-stroke: 2px rgb(5, 3, 49);
+    float: right;
+}
+.texto h10{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    margin-right: 0px; 
+    background: -webkit-linear-gradient(left top, rgb(134, 124, 218), rgb(106, 133, 207));
+    background: linear-gradient(to bottom right, rgb(30, 17, 148), rgb(80, 114, 185));
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;  
+    -webkit-text-stroke: 2px rgb(9, 6, 61);
+    float: left;
+}
+.texto video{
+    background: white;
+}
+.co video{
+    background: white;
+}
+
+.SN{
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    background-color: blanchedalmond;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 0 6px rgba(0, 0, 0,  .5);
+}
+.menu-navegacion{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 30vw;  
+  height: 100%;
+  background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+align-items: center;
+/*transition: transform .3s ease-in-out;*/
+transform: translate(110%);
+box-shadow: 0 0 6px rgba(0,  0, 0,  .5);
+}
+.spread{
+  transform: translate(0);  
+}
+nav {
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    border-bottom: 1px solid transparent;
+    box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, .2);
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    transition: ease-in-out 0.5s;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    padding: 0 40px;
+}
+.menu-navegacion{
+    color: white;
+    text-decoration: none;
+}
+.menu{
+    font-family:Arial, Helvetica, sans-serif ;
+  font-size: 25px;
+
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.container-all h7{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;       
+    font-size: 125%;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    
+}
+
+.container2{
+        width: 500%;
+        max-width: 1000px;
+        margin: auto;
+        margin-left: 50px;
+        margin-bottom: 20px;
+
+        
+}
+.container2 video{
+        width: 600px;
+        float: right;
+        height: 400px; ;
+        border-radius: 5px;
+        margin-bottom: 0px;
+        background-color: white;
+        margin-left:100px;
+       margin-right: 0px;
+}
+.container2 h2{
+    font-size: 260%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.co video{
+    width: 450;
+    height: 250;
+    margin-left: 230px;
+}
+
+@media screen and (max-width: 800px){ 
+    .menu-navegacion{
+        width: 50vw;
+}
+.container-all img{
+    width: 30%;
+    height: 40%;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    text-align:left;
+    margin-left: -40;
+}
+.container-all h7 {
+    font-size: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: -2px;
+    width: 30%;
+    height: 40%;
+}
+.container2{
+    width: 500%;
+    max-width: 1000px;
+    margin: auto;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.container2 video{
+    width: 300px;
+    float: right;
+    height: 200px; ;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    background-color: white;
+    margin-left:10px;
+   margin-right: 250px;
+}
+.container2 h2{
+font-size: 160%;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 0px;
+}
+
+.container2 h3{
+    font-size: 100% ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+}
+.container2 h4{
+    font-size: 100% ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+}
+.container2 h5{
+    font-size: 100% ;
+    font-family: Arial, Helvetica, sans-serif;
+   margin-left: 0px;
+    
+}
+.co video{
+    width: 250;
+    height: 150;
+}
+.co h6{
+    margin-right: 400px; 
+}
+.texto video{
+    width: 300px;
+    height: 200px; ;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    background-color: white;
+    margin-left:10px;
+   margin-right: 250px;
+}
+.texto h9{
+    margin-right: 400px; 
+}
+.texto h10{
+    margin-left: 0px;
+    margin-right: 800px;
+    
+}
+}
+@media screen and (max-width: 474px){ 
+    .menu-navegacion{
+        width: 40vw;
+        
+}
+.container-all img{
+    width: 15%;
+    height: 16%;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    text-align:left;
+    margin-left: -35px;
+}
+
+.container-all h7 {
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: -2px;
+    justify-content: space-evenly;
+   
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding:    45px;
+    display: block;
+}
+.container2 h2{
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -800px;
+    }
+    
+    .container2 h3{
+        font-size: 80% ;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: -60px;
+    }
+    .container2 h4{
+        font-size: 80% ;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: -60px;
+    }
+    .container2 h5{
+        font-size: 80% ;
+        font-family: Arial, Helvetica, sans-serif;
+       margin-left: -60px;
+        
+    }
+    .container2 video{
+        width: 350px;
+        float: right;
+        height: 200px; ;
+        border-radius: 5px;
+        margin-bottom: 0px;
+        background-color: white;
+        margin-left:-100px;
+       margin-right: 450px;
+    }
+    .co video{
+        width: 250;
+        height: 150;
+    }
+    .co h6{
+        
+        font-family: 'Alfa Slab One', cursive;
+    font-size: 300%;
+    background: -webkit-linear-gradient(left top, rgb(134, 124, 218), rgb(106, 133, 207));
+    background: linear-gradient(to bottom right, rgb(30, 17, 148), rgb(80, 114, 185));
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;  
+    -webkit-text-stroke: 2px rgb(9, 6, 61);
+    float: right;
+    }
+    .texto video{
+        width: 300px;
+        height: 200px; ;
+        border-radius: 5px;
+        margin-bottom: 0px;
+        background-color: white;
+        margin-left:10px;
+       margin-right: 250px;
+       float: left;
+    }
+    .texto h9{
+        margin-right: 800px; 
+    }
+    .texto h10{
+        margin-left: 80px;
+        margin-right: 800px;
+        
+    }
+    .texto h10{
+        margin-left: 0px;
+        margin-right: 800px;
+        float: left;
+    }
+}
+
